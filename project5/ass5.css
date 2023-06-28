@@ -1,0 +1,16 @@
+.crc img{
+    height: 430px;
+    width: 670px;
+    border: 10px;
+    border-style: groove;
+    border-color: black;
+    justify-content: center;
+    align-items: center;
+    margin: 10%;
+    margin-left: 28.9%;
+}
+.crc{
+    border: 2px;
+    border-color: black;
+    border-style: groove;
+}
